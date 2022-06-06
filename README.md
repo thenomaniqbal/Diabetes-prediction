@@ -11,7 +11,7 @@
   <p align="center">
     In this i've tried to predict the probability of a person having diabetes based on some data fields...
     <br />
-    <a href="#"><strong>View Deployment On Heroku »</strong></a>
+    <a href="https://diabetesprediction404.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
     <br />
     <br />
     <a href="https://github.com/thenomaniqbal/Diabetes-prediction">View Codes</a>
