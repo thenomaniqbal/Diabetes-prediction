@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Project
 
- <a href="https://github.com/thenomaniqbal/">
+ <a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
     <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
   </a>
 
