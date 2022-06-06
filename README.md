@@ -39,7 +39,7 @@
 ## Project
 
  <a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
+    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png"> <img src="images/img3.png">
   </a>
 
 `thenomaniqbal`, `Diabetes-prediction`,  `thenomaniqbal@gmail.com`
