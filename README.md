@@ -32,7 +32,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Contributers](#contributers)
-* [License](#license)
 * [Contact](#contact)
 
 
@@ -96,15 +95,10 @@ import pickle
 
 thenomaniqbal, ismahanemerzuke
 
-
-
-<!-- LICENSE -->
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - thenomaniqbal
+Your Name - NomanIqbal
 
 Project Link: [https://github.com/thenomaniqbal/Diabetes-prediction/](https://github.com/thenomaniqbal/Diabetes-prediction/)
 
