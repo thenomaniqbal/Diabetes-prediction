@@ -93,7 +93,7 @@ import pickle
 ```
 ## Contributers
 
-Noman Iqbal, Ismahane Merzouk
+Noman Iqbal, Ismahane Merzouk, Mashood Ali
 
 <!-- CONTACT -->
 ## Contact
