@@ -16,7 +16,7 @@
     <br />
     <a href="https://github.com/thenomaniqbal/Diabetes-prediction">View Codes</a>
     ·
-    <a>Report Bug -> thenomaniqbal@gmail.com</a>
+    <a>Report Bug / Documentation / Paper -> thenomaniqbal@gmail.com</a>
     
   </p>
 </p>
