@@ -98,7 +98,7 @@ Noman Iqbal, Ismahane Merzouk, Mashood Ali
 <!-- CONTACT -->
 ## Contact
 
-Your Name - NomanIqbal
+Name - NomanIqbal
 
 Project Link: [https://github.com/thenomaniqbal/Diabetes-prediction/](https://github.com/thenomaniqbal/Diabetes-prediction/)
 
