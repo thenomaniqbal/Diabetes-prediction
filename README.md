@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/thenomaniqbal/Diabetes-prediction">
+  <a href="https://github.com/thenomaniqbal/">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,7 +39,7 @@
 ## Project
 
  <a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png"> <img src="images/img3.png">
+    <img src="images/img.png"> <img src="images/img3.png">  <img src="images/img1.png"> <img src="images/img2.png"> 
   </a>
 
 `thenomaniqbal`, `Diabetes-prediction`,  `thenomaniqbal@gmail.com`
